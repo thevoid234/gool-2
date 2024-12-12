@@ -1,0 +1,14 @@
+"<html><head></head><body>
+
+<title> Google 2.com</title>
+<svg height="130" width="10000000">
+  <defs>
+    <linearGradient id="grad1">
+      <stop offset="0%" stop-color="green"></stop>
+      <stop offset="100%" stop-color="brown"></stop>
+    </linearGradient>
+  </defs>
+  <ellipse cx="100" cy="70" rx="85" ry="55" fill="url(#grad1)"></ellipse>
+  <text fill="#ffffff" font-size="20" font-family="Verdana" x="50" y="76">GOOGLE2</text>
+  Sorry, your browser does not support inline SVG.
+</svg>"
